@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1463686703 source:c:\users\giani\desktop\utn\2do año\informatica ii\consultorio medico\main.c
+	<windows.h>
+	<stdio.h>
+
